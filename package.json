@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vuetify": "^2.0.18"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
